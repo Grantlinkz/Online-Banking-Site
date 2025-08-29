@@ -1,0 +1,80 @@
+[18-Jul-2022 10:34:13 America/New_York] PHP Warning:  file_get_contents(https://api.exchangerate-api.com/v4/latest/USD): Failed to open stream: HTTP request failed! HTTP/1.1 429 Too Many Requests
+ in /home/fellzbqt/raatcomercial.online/scripts/functions.php on line 136
+[18-Jul-2022 10:34:13 America/New_York] PHP Warning:  Attempt to read property "rates" on null in /home/fellzbqt/raatcomercial.online/scripts/functions.php on line 138
+[18-Jul-2022 10:34:13 America/New_York] PHP Warning:  Attempt to read property "DZD" on null in /home/fellzbqt/raatcomercial.online/scripts/functions.php on line 138
+[24-Oct-2022 21:00:45 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[24-Oct-2022 21:00:45 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[24-Oct-2022 21:00:45 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[24-Oct-2022 21:00:45 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[24-Oct-2022 21:00:45 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[24-Oct-2022 21:00:45 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[27-Oct-2022 21:35:50 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[27-Oct-2022 21:35:50 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[27-Oct-2022 21:35:50 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[27-Oct-2022 21:35:50 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[27-Oct-2022 21:35:50 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[27-Oct-2022 21:35:50 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[31-Oct-2022 09:13:08 Africa/Lagos] PHP Notice:  Undefined variable: enable_tac in /home/winstchd/public_html/personal-banking/auth.php on line 115
+[31-Oct-2022 09:13:08 Africa/Lagos] PHP Notice:  Undefined index: transaction_session in /home/winstchd/public_html/personal-banking/auth.php on line 116
+[31-Oct-2022 09:15:22 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[31-Oct-2022 09:15:22 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[31-Oct-2022 09:15:22 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[31-Oct-2022 09:15:22 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[31-Oct-2022 09:15:22 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[31-Oct-2022 09:15:22 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[09-Nov-2022 21:04:57 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[09-Nov-2022 21:04:57 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[09-Nov-2022 21:04:57 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[09-Nov-2022 21:04:57 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[09-Nov-2022 21:04:57 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[09-Nov-2022 21:04:57 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[09-Nov-2022 21:10:48 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[09-Nov-2022 21:10:48 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[09-Nov-2022 21:10:48 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[09-Nov-2022 21:10:48 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[09-Nov-2022 21:10:48 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[09-Nov-2022 21:10:48 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[10-Nov-2022 05:25:51 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[10-Nov-2022 05:25:51 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[10-Nov-2022 05:25:51 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[10-Nov-2022 05:25:51 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[10-Nov-2022 05:25:51 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[10-Nov-2022 05:25:51 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[10-Nov-2022 11:48:34 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 7
+[10-Nov-2022 11:48:34 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 8
+[10-Nov-2022 11:48:34 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 9
+[10-Nov-2022 11:48:34 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 10
+[10-Nov-2022 11:48:34 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 11
+[10-Nov-2022 11:48:34 Africa/Lagos] PHP Notice:  Trying to access array offset on value of type null in /home/winstchd/public_html/personal-banking/transaction-successful.php on line 12
+[29-May-2023 15:54:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 7
+[29-May-2023 15:54:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 8
+[29-May-2023 15:54:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 9
+[29-May-2023 15:54:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 10
+[29-May-2023 15:54:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 11
+[29-May-2023 15:54:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 12
+[15-Jun-2023 21:56:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 7
+[15-Jun-2023 21:56:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 8
+[15-Jun-2023 21:56:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 9
+[15-Jun-2023 21:56:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 10
+[15-Jun-2023 21:56:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 11
+[15-Jun-2023 21:56:20 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 12
+[15-Jun-2023 22:00:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 7
+[15-Jun-2023 22:00:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 8
+[15-Jun-2023 22:00:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 9
+[15-Jun-2023 22:00:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 10
+[15-Jun-2023 22:00:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 11
+[15-Jun-2023 22:00:56 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/winshqgv/winstersbk.com/personal-banking/transaction-successful.php on line 12
+[16-Jun-2023 23:12:37 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[16-Jun-2023 23:12:37 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
+[17-Jun-2023 12:47:02 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[17-Jun-2023 12:47:02 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
+[17-Jun-2023 13:07:49 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[17-Jun-2023 13:07:49 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
+[21-Jun-2023 13:36:02 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[21-Jun-2023 13:36:02 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
+[21-Jun-2023 14:16:22 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[21-Jun-2023 14:16:22 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
+[08-Jul-2023 22:03:23 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[08-Jul-2023 22:03:23 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
+[09-Jul-2023 11:48:31 Africa/Lagos] PHP Warning:  Undefined variable $enable_tac in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 115
+[09-Jul-2023 11:48:31 Africa/Lagos] PHP Warning:  Undefined array key "transaction_session" in /home/winshqgv/winstersbk.com/personal-banking/auth.php on line 116
