@@ -16,7 +16,7 @@ Key Features
 Tech Stack
 - Frontend: HTML, JavaScript, CSS, SCSS
 - Backend: PHP, Hack
-- Database: MySQL (or similar; configure in project config files)
+- Database: MySQL
 
 Getting Started (development)
 1. Clone:
@@ -47,15 +47,8 @@ Screenshots — "Video Look" gallery (4 per row)
   <img src="Video%20Look/C13.png" alt="C13" style="width:24%;object-fit:cover;">
 </div>
 
-Notes
-- The gallery uses relative paths to images; the README must be at the repository root for these relative links to work.
-- If you prefer raw URLs (raw.githubusercontent.com), I can update these to absolute raw links.
-
 Contributing
 - Fork → branch → PR. Include screenshots and a short description for UI or behavior changes.
-
-License
-- Add your license (e.g., MIT) if desired.
 
 Contact
 - Maintainer: Grantlinkz — https://github.com/Grantlinkz
