@@ -47,75 +47,11 @@ Screenshots — "Video Look" gallery (4 per row)
   <img src="Video%20Look/C13.png" alt="C13" style="width:24%;object-fit:cover;">
 </div>
 
-Architecture / Project structure
-The following is a list of top-level files and directories to help you navigate the project:
-
-```
-README.md
-Statament royal/
-Statement.php
-Video Look/
-about.php
-account.sql
-account/
-admin/
-assets/
-assets2/
-assets3/
-banking-services.php
-bootstrap-4.0.0/
-business-cash.php
-cards-2.html
-cards.php
-checking.php
-contact.php
-css/
-css2/
-css3/
-electronic.php
-email/
-emaillogo.png
-external219a.html
-externald5a2.html
-favicon.png
-fonts/
-footerlogo.jpg
-footerlogo.png
-images/
-img/
-includes/
-index-2.php
-index-3.html
-index.php
-indexfunction.php
-insurance.php
-interest-checking.php
-js/
-js2/
-library/
-loans.php
-logo.png
-logo1.png
-mortgages.php
-offshore.php
-personal-banking.html
-personal-banking.php
-personal-banking/
-portfolio-single.php
-royalcu.com1/
-savings.php
-scripts/
-scss/
-scss2/
-style.css
-tawkto.js
-team.php
-vendor/
-www.themelamp.com/
-```
+Notes
+- The folder also contains a "preview.mp4" demo — link it in the README if you want to show a video preview.
 
 Contributing
 - Fork → branch → PR. Include screenshots and a short description for UI or behavior changes.
 
 Contact
-- Maintainer: Grantlinkz — https://github.com/Grantlinkz
+- Developer: Grantlinkz — https://github.com/Grantlinkz
